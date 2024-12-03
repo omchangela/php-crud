@@ -1,1 +1,7 @@
-/uploads
+# Ignore uploads folder
+uploads/
+
+# Other typical ignores
+node_modules/
+.env
+*.log
